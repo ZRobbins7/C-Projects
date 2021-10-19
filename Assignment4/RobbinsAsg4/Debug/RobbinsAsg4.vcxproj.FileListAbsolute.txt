@@ -1,2 +1,0 @@
-C:\Users\newuser\OneDrive\Documents\Athens State\CS317\Assignment4\RobbinsAsg4\Debug\RobbinsAsg4.exe
-C:\Users\newuser\OneDrive\Documents\Athens State\CS317\Assignment4\RobbinsAsg4\Debug\RobbinsAsg4.pdb

@@ -1,5 +1,0 @@
-﻿  RobbinsAsg2P2.cpp
-C:\Users\newuser\OneDrive\Documents\Athens State\CS317\Assignment2\RobbinsAsg2P2\RobbinsAsg2P2.cpp(27,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\newuser\OneDrive\Documents\Athens State\CS317\Assignment2\RobbinsAsg2P2\RobbinsAsg2P2.cpp(28,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\newuser\OneDrive\Documents\Athens State\CS317\Assignment2\RobbinsAsg2P2\RobbinsAsg2P2.cpp(29,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  RobbinsAsg2P2.vcxproj -> C:\Users\newuser\OneDrive\Documents\Athens State\CS317\Assignment2\RobbinsAsg2P2\Debug\RobbinsAsg2P2.exe
