@@ -1,0 +1,5 @@
+Results from the Random number file driven program: 
+
+The total number of numbers in the input file is: 200
+The sum of all the numbers in the input file is: 105527
+The average of all the number in the input file is: 527.635
